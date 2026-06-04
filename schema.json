@@ -747,6 +747,10 @@
           "type": "text"
         },
         {
+          "name": "TEST",
+          "type": "text"
+        },
+        {
           "name": "Customer Name",
           "type": "text"
         },
