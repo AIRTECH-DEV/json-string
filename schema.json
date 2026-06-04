@@ -1,0 +1,2018 @@
+{
+  "version": 1,
+  "tabs": {
+    "Complaint Entry": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Email Address",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Site Flat / Shop / Showroom No",
+          "type": "text"
+        },
+        {
+          "name": "Site Building Name",
+          "type": "text"
+        },
+        {
+          "name": "Street / Locality / Area",
+          "type": "text"
+        },
+        {
+          "name": "City",
+          "type": "text"
+        },
+        {
+          "name": "Pincode",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Email ID",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "number"
+        },
+        {
+          "name": "Email ID",
+          "type": "text"
+        },
+        {
+          "name": "Flat No",
+          "type": "number"
+        },
+        {
+          "name": "Building",
+          "type": "text"
+        },
+        {
+          "name": "Street / Locality / Area",
+          "type": "text"
+        },
+        {
+          "name": "City",
+          "type": "text"
+        },
+        {
+          "name": "Pincode",
+          "type": "number"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "number"
+        },
+        {
+          "name": "Contact Person Email ID",
+          "type": "text"
+        },
+        {
+          "name": "Type of Request?",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Site Flat / Shop / Showroom No",
+          "type": "text"
+        },
+        {
+          "name": "Site Building Name",
+          "type": "text"
+        },
+        {
+          "name": "Street / Locality / Area",
+          "type": "text"
+        },
+        {
+          "name": "City",
+          "type": "text"
+        },
+        {
+          "name": "Pincode",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Email ID",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "text"
+        },
+        {
+          "name": "Flat No",
+          "type": "text"
+        },
+        {
+          "name": "Building",
+          "type": "text"
+        },
+        {
+          "name": "Street / Locality / Area",
+          "type": "text"
+        },
+        {
+          "name": "City",
+          "type": "text"
+        },
+        {
+          "name": "Pincode",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Email ID",
+          "type": "text"
+        },
+        {
+          "name": "Service Scheduling Date to be done",
+          "type": "date"
+        },
+        {
+          "name": "Prefilled Link",
+          "type": "text"
+        }
+      ],
+      "exclude": true
+    },
+    "Complaints & Service Entry": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Type of Request",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Scheduled Date",
+          "type": "date"
+        },
+        {
+          "name": "Cleaned Type",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine Type",
+          "type": "text"
+        },
+        {
+          "name": "Full Address",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Number",
+          "type": "number"
+        },
+        {
+          "name": "Contact Email",
+          "type": "text"
+        }
+      ]
+    },
+    "Cleaned_Complaints": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Type of Request",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine Type",
+          "type": "text"
+        },
+        {
+          "name": "Full Address",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Number",
+          "type": "number"
+        },
+        {
+          "name": "Contact Email",
+          "type": "text"
+        }
+      ]
+    },
+    "Cleaned_Services": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Type of Request",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Scheduled Date",
+          "type": "date"
+        },
+        {
+          "name": "Cleaned Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Machine Type",
+          "type": "text"
+        },
+        {
+          "name": "Full Address",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Name",
+          "type": "text"
+        },
+        {
+          "name": "Contact Number",
+          "type": "number"
+        },
+        {
+          "name": "Contact Email",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS - Complaint Intake & Dispatch": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Priority",
+          "type": "text"
+        },
+        {
+          "name": "Planned - 1",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "date"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Technician Name",
+          "type": "text"
+        },
+        {
+          "name": "Planned - 2",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "date"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned - 3",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Resolve?",
+          "type": "text"
+        }
+      ],
+      "exclude": true
+    },
+    "Master Sheet": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Sr No",
+          "type": "number"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Priority",
+          "type": "text"
+        },
+        {
+          "name": "TAT Days",
+          "type": "number"
+        },
+        {
+          "name": "Planned Date",
+          "type": "date"
+        }
+      ]
+    },
+    "Scheduling Sheet": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Sr No",
+          "type": "number"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Priority",
+          "type": "text"
+        },
+        {
+          "name": "TAT Days",
+          "type": "number"
+        },
+        {
+          "name": "Planned Date",
+          "type": "date"
+        }
+      ]
+    },
+    "Service Report": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Service ID",
+          "type": "text"
+        },
+        {
+          "name": "Customer Name",
+          "type": "text"
+        },
+        {
+          "name": "Address",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person",
+          "type": "text"
+        },
+        {
+          "name": "Phone",
+          "type": "text"
+        },
+        {
+          "name": "Model",
+          "type": "text"
+        },
+        {
+          "name": "Serial No",
+          "type": "text"
+        },
+        {
+          "name": "AC Location",
+          "type": "text"
+        },
+        {
+          "name": "Machine Type",
+          "type": "text"
+        },
+        {
+          "name": "Gas Type",
+          "type": "text"
+        },
+        {
+          "name": "problem",
+          "type": "text"
+        },
+        {
+          "name": "Action Taken",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Technicians",
+          "type": "text"
+        },
+        {
+          "name": "Servcie status",
+          "type": "text"
+        },
+        {
+          "name": "Payment Status",
+          "type": "text"
+        },
+        {
+          "name": "Customer Signature",
+          "type": "text"
+        },
+        {
+          "name": "Tech Signature",
+          "type": "text"
+        },
+        {
+          "name": "Service Report",
+          "type": "text"
+        },
+        {
+          "name": "Payment Proof",
+          "type": "text"
+        },
+        {
+          "name": "Machine Status",
+          "type": "text"
+        },
+        {
+          "name": "Customer Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Service Documentation",
+          "type": "text"
+        },
+        {
+          "name": "Customer Signature Name",
+          "type": "text"
+        },
+        {
+          "name": "Customer Signature Mobile",
+          "type": "text"
+        },
+        {
+          "name": "Technician Remark",
+          "type": "text"
+        }
+      ]
+    },
+    "Complaint Report1": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Time Stamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Customer Name",
+          "type": "text"
+        },
+        {
+          "name": "Address",
+          "type": "text"
+        },
+        {
+          "name": "Issue",
+          "type": "text"
+        },
+        {
+          "name": "Contact person Name",
+          "type": "text"
+        },
+        {
+          "name": "Phone Number",
+          "type": "text"
+        },
+        {
+          "name": "Model",
+          "type": "text"
+        },
+        {
+          "name": "Serial No",
+          "type": "text"
+        },
+        {
+          "name": "AC Location",
+          "type": "text"
+        },
+        {
+          "name": "Machine Type",
+          "type": "text"
+        },
+        {
+          "name": "Gas Type",
+          "type": "text"
+        },
+        {
+          "name": "Problem",
+          "type": "text"
+        },
+        {
+          "name": "Action Taken",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine Brand",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Type",
+          "type": "text"
+        },
+        {
+          "name": "Techinician Name",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Resolved?",
+          "type": "text"
+        },
+        {
+          "name": "Payment Received?",
+          "type": "text"
+        },
+        {
+          "name": "Customer sign",
+          "type": "text"
+        },
+        {
+          "name": "Tech sign",
+          "type": "text"
+        },
+        {
+          "name": "Service Report",
+          "type": "text"
+        },
+        {
+          "name": "Report Type",
+          "type": "text"
+        },
+        {
+          "name": "Payment Proof",
+          "type": "text"
+        },
+        {
+          "name": "Problem Status",
+          "type": "text"
+        },
+        {
+          "name": "Customer Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Customer Signature Name",
+          "type": "text"
+        },
+        {
+          "name": "Customer Signature Mobile",
+          "type": "text"
+        },
+        {
+          "name": "Technician Remark",
+          "type": "text"
+        }
+      ]
+    },
+    " BPMS - Service Intake & Dispatch": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Scheduled Date",
+          "type": "date"
+        },
+        {
+          "name": "Cleaned Type",
+          "type": "text"
+        },
+        {
+          "name": "Planned - 1",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "date"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Technician Name",
+          "type": "text"
+        },
+        {
+          "name": "Planned - 2",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "date"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned - 3",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "date"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Resolve?",
+          "type": "text"
+        }
+      ],
+      "exclude": true
+    },
+    "Technician List": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Technician Name",
+          "type": "text"
+        },
+        {
+          "name": "Designation",
+          "type": "text"
+        }
+      ]
+    },
+    "Complaint Scheduling": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Customer Name",
+          "type": "text"
+        },
+        {
+          "name": "Assigned To",
+          "type": "text"
+        },
+        {
+          "name": "Complaint /Issue",
+          "type": "text"
+        },
+        {
+          "name": "Address",
+          "type": "text"
+        },
+        {
+          "name": "Contact Person Number",
+          "type": "number"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Service Report type",
+          "type": "text"
+        },
+        {
+          "name": "Remark / Stastus (Open /\nClosed)",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS - Warranty / CAMC": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Issue",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Lead Time",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        }
+      ]
+    },
+    "BPMS - Customer Feedback": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Customer Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Resolved?",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS - Labour AMC": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Issues",
+          "type": "text"
+        },
+        {
+          "name": "Customer Type",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status (Yes/No)",
+          "type": "text"
+        },
+        {
+          "name": "Quotation Number",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        },
+        {
+          "name": "Remarks",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        },
+        {
+          "name": "Tax invoice Number",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Low side Invoice No",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Payment Received Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        }
+      ]
+    },
+    "BPMS - Payment Followup": {
+      "headerRow": 6,
+      "columns": [
+        {
+          "name": "TimeStamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Complaint Resolved?",
+          "type": "text"
+        },
+        {
+          "name": "Payment Received?",
+          "type": "text"
+        },
+        {
+          "name": "Issue",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "date"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status (Yes/No)",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Available?",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Quotation number",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "File Upload",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "PO Number",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status(Yes/No)",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Delay",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        },
+        {
+          "name": "Tax invoice Number",
+          "type": "text"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Status",
+          "type": "text"
+        },
+        {
+          "name": "Low side Invoice No",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        },
+        {
+          "name": "Planned",
+          "type": "text"
+        },
+        {
+          "name": "Actual",
+          "type": "text"
+        },
+        {
+          "name": "Payment Received Status",
+          "type": "text"
+        },
+        {
+          "name": "Time Dealy",
+          "type": "date"
+        }
+      ]
+    },
+    "Payment Followup Tax Invoice": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Tax Invoice Number",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS-Payment Followup Remarks": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Choose Remarks Here",
+          "type": "text"
+        },
+        {
+          "name": "Detailed Remarks",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS-LabourAMC PO/Payment Followup PO": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Email Address",
+          "type": "text"
+        },
+        {
+          "name": "Customer ID",
+          "type": "text"
+        },
+        {
+          "name": "Report ID",
+          "type": "text"
+        },
+        {
+          "name": "Upload PO Here",
+          "type": "text"
+        },
+        {
+          "name": "PO Number",
+          "type": "text"
+        }
+      ]
+    },
+    "Holidays": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "<---You can type the dates of the holidays in this column",
+          "type": "text"
+        }
+      ]
+    },
+    "BPMS-Payment Followup Upload Quotation": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Upload Quotation",
+          "type": "text"
+        },
+        {
+          "name": "Quotation Number",
+          "type": "text"
+        }
+      ]
+    },
+    "Customer_Complaint_Pending_List": {
+      "headerRow": 1,
+      "columns": [
+        {
+          "name": "Timestamp",
+          "type": "date"
+        },
+        {
+          "name": "Complaint ID",
+          "type": "text"
+        },
+        {
+          "name": "Company Name",
+          "type": "text"
+        },
+        {
+          "name": "Client Name",
+          "type": "text"
+        },
+        {
+          "name": "Service Type",
+          "type": "text"
+        },
+        {
+          "name": "Machine / System Type",
+          "type": "text"
+        },
+        {
+          "name": "Resolved?",
+          "type": "text"
+        },
+        {
+          "name": "Pending Status",
+          "type": "text"
+        }
+      ]
+    }
+  }
+}
